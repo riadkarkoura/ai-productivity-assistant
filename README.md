@@ -38,4 +38,8 @@ OPENAI_API_KEY=your_api_key_here
 
 ## Author
 
+## 📸 Screenshot
+
+![AI Productivity Assistant](screenshots/demo.png)
+
 Riad Kar
